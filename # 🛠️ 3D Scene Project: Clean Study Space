@@ -1,0 +1,48 @@
+# 🛠️ 3D Scene Project: Clean Study Space
+
+## 📌 Project Overview
+This 3D scene represents a **clean study space**, featuring a lamp constructed from multiple simple shapes. While the overall look is minimal and organized, building the scene—especially the lamp—required problem-solving and design planning. The lamp’s base includes several differently sized components that had to be stacked correctly, adding complexity to the build.
+
+Both **orthographic and perspective views** were used to guide and finalize the design, giving the scene a sense of depth and realism while still allowing for precise adjustments.
+
+---
+
+## 🧠 What I Learned
+This project helped me:
+
+- Decompose complex objects into manageable, simple shapes.
+- Practice spatial reasoning and stacking logic.
+- Improve my skills in scene layout, camera angles, and lighting.
+- Gain interest in 3D printing, leading me to purchase a printer to continue building.
+
+---
+
+## 🧰 Tools & Techniques
+- **Rendering Modes:** Orthographic and Perspective
+- **Object Design:** Custom shape stacking and multi-part assembly
+- **Iteration:** Adjusted object sizes and lamp parts over multiple versions
+- **Inspiration:** Real-world organization and aesthetics
+
+---
+
+## 📈 Design Process
+I approached this project by starting with rough shapes, then layering complexity as I refined the composition. The lamp was designed in parts, each tested for fit and proportion. Iteration was key—especially when aligning the bases and refining the visual balance of the scene.
+
+---
+
+## 🧩 Development Strategy
+- Focused on **object modularity**: Each part of the lamp could be adjusted separately.
+- Implemented **gradual refinement**: Frequent testing and visual checks guided improvements.
+- Maintained a consistent **scale and alignment** system for realism and function.
+
+---
+
+## 🌱 What’s Next?
+This project encouraged me to expand my technical design skills beyond the screen. I now plan to use these 3D modeling skills for real-world applications—like prototyping with my 3D printer and exploring more interactive digital environments.
+
+---
+
+## ❓ Final Reflection
+How can the design and development process we use in 3D graphics carry over into more interactive, real-world applications?
+
+---
